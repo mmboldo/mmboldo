@@ -1,16 +1,61 @@
-## Hi there 👋
+# Marcelo M. Boldo
 
-<!--
-**mmboldo/mmboldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps / Cloud Engineer with hands-on experience designing, provisioning, and operating multi-tier systems.  
+Strong focus on Linux-based infrastructure, automation, and production-minded documentation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+- Linux systems & systemd-managed services
+- Infrastructure as Code (Vagrant, Terraform)
+- Service orchestration and dependency management
+- CI/CD foundations and automation workflows
+- Cloud-ready architecture patterns
+
+---
+
+## Selected Projects
+
+Pinned repositories below showcase end-to-end projects, including:
+
+- Multi-tier application architectures
+- Automated provisioning and configuration
+- Real-world troubleshooting and hardening
+- Verification-driven delivery and documentation
+
+Each project is designed to be readable, reproducible, and interview-ready.
+
+⬇️ See pinned repositories ⬇️
+
+---
+
+## How I Work
+
+- Prefer clarity over cleverness
+- Automate first, document always
+- Treat local environments as production simulations
+- Validate systems through explicit verification steps
+
+---
+
+## Currently Exploring
+
+- Terraform on AWS
+- Configuration management with Ansible
+- CI/CD pipelines and GitOps workflows
+- Observability fundamentals
+
+---
+
+## Certifications
+
+- HashiCorp Certified: Terraform Associate
+- AWS Certified Solutions Architect – Associate
+
+---
+
+## Contact
+
+- GitHub: https://github.com/mmboldo
+- LinkedIn: [Link](https://www.linkedin.com/in/marcelo-boldo/)
