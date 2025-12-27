@@ -7,8 +7,8 @@ Strong focus on Linux-based infrastructure, automation, and production-minded do
 
 ## Focus Areas
 
-- Linux systems & systemd-managed services
 - Infrastructure as Code (Vagrant, Terraform)
+- Linux systems & systemd-managed services
 - Service orchestration and dependency management
 - CI/CD foundations and automation workflows
 - Cloud-ready architecture patterns
@@ -27,6 +27,18 @@ Pinned repositories below showcase end-to-end projects, including:
 Each project is designed to be readable, reproducible, and interview-ready.
 
 ⬇️ See pinned repositories ⬇️
+
+---
+
+### 🚀 Featured Projects
+
+- **GitOps CI/CD with GitHub Actions**  
+  Infrastructure and application delivery using Terraform, Kubernetes, and AWS EKS.  
+  → https://github.com/mmboldo/gitops-github-actions
+
+- **Multi-tier Application (Local IaC)**  
+  Vagrant-based infrastructure simulating real-world service dependencies.  
+  → https://github.com/mmboldo/devops-multi-tier-app-local-vagrant
 
 ---
 
